@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Jagtap
-- 👀 I’m interested in Android Developmeny
-- 🌱 I’m currently learning Jetpack, MVVM etc
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Jetpack, MVVM. FCM, Dependency Injection etc
 - 💞️ I’m looking to collaborate on Android.
 - 📫 How to reach me spiunicorn912@gmail.com
 - 😄 Pronouns: Aj
